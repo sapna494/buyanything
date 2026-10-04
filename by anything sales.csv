@@ -999,3 +999,4 @@ OrderID,OrderDate,CustomerID,CustomerName,CustomerEmail,Country,ProductID,Produc
 998,12/24/2023,1748,Donna Sullivan,jhansen@yahoo.com,Tuvalu,536,Sports,Tennis Racket,7,593.46,4154.22,East
 999,6/28/2024,1596,Stephen Fleming,vincentfuller@rocha.com,Zimbabwe,569,Sports,Phone,6,951.35,5708.1,North
 1000,10/20/2024,1504,Bryan Nunez,erin39@gmail.com,Tajikistan,515,Sports,Table,8,966.39,7731.12,East
+1001,11/15/2025,1101,Sapna Kumari,sapna@gmail.com,India,202,Cosmetics,Lipstick,1,210.3,210.3,South
